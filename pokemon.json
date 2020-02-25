@@ -2234,7 +2234,7 @@
           "name": "Xurkitree",
           "img": "http://www.serebii.net/pokemongo/pokemon/796.png",
           "type": [
-            "Electr"
+            "Electric"
           ],
           "height": "3.8 m",
           "weight": "100 kg",
@@ -2251,6 +2251,352 @@
               {
                 "num": "0",
                 "name": "This is the final Evolution"
+              }]
+        },
+        {
+          "id": 797,
+          "num": "797",
+          "name": "Celesteela",
+          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/c/c3/Celesteela.png/revision/latest?cb=20161206173816",
+          "type": [
+            "Steel",
+            "Flying"
+          ],
+          "height": "9,2 m",
+          "weight": "999,9 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses":  [
+              "Electric",
+              "Fire"
+          ],
+          "next_evolution": [{
+            "num":"0",
+            "name": "This is the final Evolution"
+          }]
+        },{
+          "id": 798,
+          "num": "798",
+          "name": "Kartana",
+          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/a/a1/Kartana.png/revision/latest?cb=20161206062708",
+          "type": [
+            "Grass",
+            "Steel"
+          ],
+          "height": "0,3 m",
+          "weight": "0,1 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Fire",
+              "Fighting"
+          ],
+          "next_evolution": [{
+            "num":"0",
+            "name": "This is the final Evolution"
+            }]
+        },{
+          "id": 799,
+          "num": "799",
+          "name": "Guzzlord",
+          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/9/99/Guzzlord.png/revision/latest?cb=20161118170417",
+          "type": [
+            "Sinister",
+            "Dragon"
+          ],
+          "height": "5,5 m",
+          "weight": "888,0 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Fairy",
+              "Fighting",
+              "Bug",
+              "Ice",
+              "Dragon"
+          ],
+          "next_evolution": [{
+            "num":"0",
+            "name": "This is the final Evolution"
+          }]
+        },{
+          "id": 800,
+          "num": "800",
+          "name": "Necrozma",
+          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/7/77/Necrozma.png/revision/latest?cb=20161114210617",
+          "type": [
+            "Psychic"
+          ],
+          "height": "2,4 m",
+          "weight": "230,0 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Bug",
+              "Ghost",
+              "Sinister"
+          ],
+          "next_evolution": [{
+            "num":"0",
+            "name": "This is the final Evolution"
+          }]
+        },{
+          "id": 801,
+          "num": "801",
+          "name": "Magearna",
+          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/a/a1/Magearna.png/revision/latest?cb=20160614170955",
+          "type": [
+            "Steel",
+            "Fairy"
+          ],
+          "height": "1,0 m",
+          "weight": "80,5 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Fire",
+              "Earth"
+          ],
+          "next_evolution": [{
+            "num":"0",
+            "name": "This is the final Evolution"
+          }]
+        },{
+          "id": 802,
+          "num": "802",
+          "name": "Marshadow",
+          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/d/dd/Marshadow.png/revision/latest?cb=20170615143647",
+          "type": [
+            "Fighting",
+            "Ghost"
+          ],
+          "height": "0,7 m",
+          "weight": "22,2 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Ghost",
+              "Fairy",
+              "Psychic",
+              "Flying"
+          ],
+          "next_evolution": [{
+            "num":"0",
+            "name": "This is the final Evolution"
+          }]
+        },{
+          "id": 803,
+          "num": "803",
+          "name": "Poipole",
+          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/a/af/Poipole.png/revision/latest?cb=20180104174650",
+          "type": [
+            "Poison"
+          ],
+          "height": "0,6 m",
+          "weight": "1,8 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Psychic",
+              "Earth"
+          ],
+          "next_evolution": [{
+            "num":"804",
+            "name": "Naganadel"
+          }]
+        },{
+          "id": 804,
+          "num": "804",
+          "name": "Naganadel",
+          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/8/86/Naganadel.png/revision/latest?cb=20171228210954",
+          "type": [
+            "Poison",
+            "Dragon"
+          ],
+          "height": "3,6 m",
+          "weight": "150,0 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Dragon",
+              "Ice",
+              "Psychic",
+              "Earth"
+          ],
+            "prev_evolution": [{
+              "num": "803",
+              "name": "Poipole"
+            }
+          ],
+            "next_evolution": [
+          {
+            "num": "0",
+            "name": "This is the final Evolution"
+          }]
+        },{
+          "id": 805,
+          "num": "805",
+          "name": "Stakataka",
+          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/b/b0/Stakataka.png/revision/latest?cb=20180728230153",
+          "type": [
+            "Rock",
+            "Steel"
+          ],
+          "height": "5,5 m",
+          "weight": "820,0 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Water",
+              "Fighting",
+              "Iron"
+          ],
+          "next_evolution": [{
+            "num":"0",
+            "name": "This is the final Evolution"
+          }]
+        },{
+          "id": 806,
+          "num": "806",
+          "name": "Blacephalon",
+          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/d/d2/Blacephalon.png/revision/latest?cb=20180728230402",
+          "type": [
+            "Fire",
+            "Ghost"
+          ],
+          "height": "1,8 m",
+          "weight": "13,0 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Water",
+              "Ghost",
+              "Rock",
+              "Sinister",
+              "Earth"
+          ],
+          "next_evolution": [{
+            "num":"0",
+            "name": "This is the final Evolution"
+          }]
+        },{
+          "id": 807,
+          "num": "807",
+          "name": "Zeraora",
+          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/e/ef/Zeraora.png/revision/latest?cb=20180423021436",
+          "type": [
+            "Electric"
+          ],
+          "height": "1,5 m",
+          "weight": "44,5 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Earth"
+          ],
+          "next_evolution": [{
+            "num":"0",
+            "name": "This is the final Evolution"
+          }]
+        },{
+          "id": 808,
+          "num": "808",
+          "name": "Meltan",
+          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/3/30/Meltan.png/revision/latest?cb=20180925141230",
+          "type": [
+            "Steel"
+          ],
+          "height": "0,2 m",
+          "weight": "8 kg",
+          "candy": "400",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Fire",
+              "Fighting",
+              "Earth"
+          ],
+          "next_evolution": [{
+            "num":"809",
+            "name": "Melmetal"
+          }]
+        },{
+          "id": 809,
+          "num": "809",
+          "name": "Melmetal",
+          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/4/4b/Melmetal.png/revision/latest?cb=20181025094423",
+          "type": [
+            "Steel"
+          ],
+          "height": "2,5 m",
+          "weight": "800,0 kg",
+          "candy": "400",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Fire",
+              "Fighting",
+              "Earth"
+            ],
+            "prev_evolution": [{
+              "num": "808",
+              "name": "Meltan"
+            }
+          ],
+            "next_evolution": [
+          {
+            "num": "0",
+            "name": "This is the final Evolution"
             }
             ]
         }
